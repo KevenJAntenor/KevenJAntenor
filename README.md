@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KevenJAntenor](https://github.com/KevenJAntenor)
 
-- 📫 How to reach me **myonlyGod1990@gmail.com**
+- 📫 How to reach me **keve.j.antenor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
