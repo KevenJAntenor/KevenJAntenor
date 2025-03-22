@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KevenJAntenor](https://github.com/KevenJAntenor)
 
-- If you find my projects helpful or interesting, consider giving them a star! It helps others discover these tools and motivates me to keep building cool stuff!
+- If you find my projects helpful or interesting, consider giving them a star! It helps others discover these tools and motivates me to keep building cool stuff! 😀
 
 - 📫 How to reach me **antenorkevenjude@gmail.com**
 
