@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keven Jude Anténor</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask** and I am looking for a job.   
 
 - 👨‍💻 All of my projects are available at [https://github.com/KevenJAntenor](https://github.com/KevenJAntenor)
 
