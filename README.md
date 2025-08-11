@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keven Jude Anténor</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+<h3 align="center">A passionate software engineer from Canad a</h3>
 
 - 🌱 I am looking for a job.   
 
